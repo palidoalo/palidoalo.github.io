@@ -1,0 +1,59 @@
+.fondo1{
+    background-color: #28a745;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+
+}
+.nav-titulo{
+    margin-left: auto;
+    
+}
+
+.formulario{
+    background-color: #28a745;
+    color:  #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21pt;
+    
+}
+
+
+.texto-form{
+    
+    color:  #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 33pt;
+    font-weight: normal;
+}
+
+.card-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+.oferta{
+    text-decoration: line-through;
+}
+.card-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: medium;
+
+}
+
+h6{
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h4{
+    font-family: 'Roboto', sans-serif;
+}
+.text-center > p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+
+}
